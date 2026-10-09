@@ -1,1 +1,5 @@
 
+
+name = "ldlj-api"
+main = "worker.js"
+compatibility_date = "2026-10-08"
