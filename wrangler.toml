@@ -1,4 +1,9 @@
 
+[[d1_databases]]
+binding = "DB"
+database_name = "ldlj-demande"
+database_id = "75ff1a44-d92a-4010-8ed1-7c970d5e0baf"
+
 
 name = "ldlj-api"
 main = "worker.js"
